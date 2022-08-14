@@ -5,7 +5,6 @@ Which will be a part of the best commit ever
 Just browser it with Chrome
 
 ## Other Info
-
 Master branch is protected since 2210 hours on 2022-08-14
 
 <details>
