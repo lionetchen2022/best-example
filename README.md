@@ -1,5 +1,5 @@
 # The Best Example Ever
-Which will be a part of the best commit ever
+Which will be a part of a very good commit
 
 ## Installation
 Just browser it with Chrome
