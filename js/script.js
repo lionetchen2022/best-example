@@ -1,7 +1,8 @@
 document.addEventListener(
     "DOMContentLoaded",
     function (event) {
-        alert("Page is loaded on the event of " + event);
+        var message = "Page is loaded on the event of " + event.type;
+        document.getElementById('message').innerText = message;
     }
 )
 // version 2022-08-14 16:57
